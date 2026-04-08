@@ -11,7 +11,7 @@ const founders = [
     bio: "A relentless innovator with a sharp eye for scalable systems. Bala brings deep expertise in distributed architecture and product strategy, turning complex problems into elegant, high-impact solutions.",
     color: "#E63946",
     gradient: "from-red-600 to-rose-500",
-    img: "/bdnv.online/images/bala.jpg",
+    img: `images/bala.jpg`,
     tagline: "Build it right. Build it once.",
   },
   {
@@ -23,7 +23,7 @@ const founders = [
     bio: "A data-driven strategist who sees opportunity where others see noise. Dharani fuses market intelligence with creative execution, driving growth engines that convert vision into measurable traction.",
     color: "#457B9D",
     gradient: "from-blue-600 to-cyan-500",
-    img: "/bdnv.online/images/dharani.jpg",
+    img: "images/dharani.jpg",
     tagline: "Data speaks. I translate.",
   },
   {
@@ -35,7 +35,7 @@ const founders = [
     bio: "A full-stack powerhouse who thrives at the bleeding edge of technology. Naveen engineers performant, resilient platforms and believes that great code is the foundation of every great company.",
     color: "#2A9D8F",
     gradient: "from-emerald-600 to-teal-500",
-    img: "/bdnv.online/images/naveen.jpg",
+    img: "images/naveen.jpg",
     tagline: "Ship fast. Ship fearlessly.",
   },
   {
@@ -47,7 +47,7 @@ const founders = [
     bio: "A design-minded engineer who obsesses over every pixel and interaction. Virinchi crafts interfaces that don't just look stunning — they feel intuitive, creating experiences users never want to leave.",
     color: "#E9C46A",
     gradient: "from-amber-500 to-yellow-400",
-    img: "/bdnv.online/images/virinchi.jpg",
+    img: "images/virinchi.jpg",
     tagline: "Make it beautiful. Make it matter.",
   },
 ];
